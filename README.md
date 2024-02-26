@@ -14,11 +14,11 @@ While meeting the blood needs of the whole body, it also needs to be fed and tak
 These vessels that feed the heart itself are called coronary arteries.
 Coronary insufficiency occurs when there is a disruption in the circulation of the coronary arteries.
 The cases of coronary insufficiency vary according to the type, degree and location of the stenosis in the coronary vessels.
-While some patients may have chest pain that occurs only during physical activity and is relieved by rest, sometimes a heart attack may occur as a result of sudden occlusion of the vessels, starting with severe chest pain and leading to sudden death.
-What are the symptoms of a heart attack?
-![image](https://github.com/ayushrathi2138/Heart-Attack-Analysis-And-Prediction/assets/152247678/7805b2ed-1359-425b-a2d4-e4638d4f2359)
- Recognizing Variables In Dataset
- age - age in years
+While some patients may have chest pain that occurs only during physical activity and is relieved by rest, sometimes a heart attack may occur as a result of sudden occlusion of the vessels, starting with severe chest pain and leading to sudden death.  
+# What are the symptoms of a heart attack?
+![image](https://github.com/ayushrathi2138/Heart-Attack-Analysis-And-Prediction/assets/152247678/7805b2ed-1359-425b-a2d4-e4638d4f2359)  
+# Recognizing Variables In Dataset  
+age - age in years
 sex - sex (1 = male; 0 = female)
 cp - chest pain type (1 = typical angina; 2 = atypical angina; 3 = non-anginal pain; 0 = asymptomatic)
 trestbps - resting blood pressure (in mm Hg on admission to the hospital)
