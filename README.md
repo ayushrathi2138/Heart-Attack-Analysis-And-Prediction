@@ -1,11 +1,13 @@
 # Heart-Attack-Analysis-And-Prediction
-What is Heart Attack?
+# What is Heart Attack?  
+
 ![image](https://github.com/ayushrathi2138/Heart-Attack-Analysis-And-Prediction/assets/152247678/b4d8c847-b2b3-4cf3-971d-a9746a44c5f5)
 The medical name of heart attack is “Myocardial infarction”.
 Heart attack in short; It is the occlusion of the vessel by plaque-like lesions filled with cholesterol and fat.
 The lesion is called abnormal conditions that occur in the organs where the disease is located.
-As a result of the blockage, the blood flow is completely cut off and a heart attack that can lead to death occurs.
-How does a heart attack occur?
+As a result of the blockage, the blood flow is completely cut off and a heart attack that can lead to death occurs.  
+
+# How does a heart attack occur?
 ![image](https://github.com/ayushrathi2138/Heart-Attack-Analysis-And-Prediction/assets/152247678/f070be30-e225-4a71-98af-d52527ba7368)
 The heart is a powerful pump that pumps blood throughout the body 60-80 times per minute at rest.
 While meeting the blood needs of the whole body, it also needs to be fed and taken blood.
